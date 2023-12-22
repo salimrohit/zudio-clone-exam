@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* css rules for 'Didact Gothic' */
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+} 
+
+header{
+    
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.listitem{
+    display: inline-block;    
+    list-style: none;    
+    margin: 10px 20px;
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    font-size: large;
+}
+
+#home{
+    
+
+}
+
